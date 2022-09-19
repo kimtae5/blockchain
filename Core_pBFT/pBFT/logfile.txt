@@ -1,0 +1,1452 @@
+2022/08/18 10:32:34 server on
+2022/08/18 10:32:34 노드 실행 : 192.168.10.159:10000 
+2022/08/18 10:32:35 server on
+2022/08/18 10:32:36 server on
+2022/08/18 10:32:37 server on
+2022/08/18 10:32:37 노드 실행 : 192.168.10.159:20000 
+2022/08/18 10:32:38 노드 실행 : 192.168.10.159:30000 
+2022/08/18 10:32:39 노드 실행 : 192.168.10.159:40000 
+2022/08/18 10:33:36 server on
+2022/08/18 10:33:36 노드 실행 : 192.168.10.159:10000 
+2022/08/18 10:33:37 server on
+2022/08/18 10:33:38 server on
+2022/08/18 10:33:39 server on
+2022/08/18 10:33:39 노드 실행 : 192.168.10.159:20000 
+2022/08/18 10:33:40 노드 실행 : 192.168.10.159:30000 
+2022/08/18 10:33:41 노드 실행 : 192.168.10.159:40000 
+2022/08/18 10:34:09 server on
+2022/08/18 10:34:09 노드 실행 : 192.168.10.159:10000 
+2022/08/18 10:34:11 server on
+2022/08/18 10:34:13 server on
+2022/08/18 10:34:13 노드 실행 : 192.168.10.159:20000 
+2022/08/18 10:34:15 server on
+2022/08/18 10:34:15 노드 실행 : 192.168.10.159:30000 
+2022/08/18 10:34:17 노드 실행 : 192.168.10.159:40000 
+2022/08/18 10:34:54 server on
+2022/08/18 10:34:54 노드 실행 : 192.168.10.159:10000 
+2022/08/18 10:34:57 server on
+2022/08/18 10:34:59 노드 실행 : 192.168.10.159:20000 
+2022/08/18 10:35:00 server on
+2022/08/18 10:35:02 노드 실행 : 192.168.10.159:30000 
+2022/08/18 10:35:03 server on
+2022/08/18 10:35:05 노드 실행 : 192.168.10.159:40000 
+2022/08/18 10:36:31 허용 가능 악성 노드 :  0
+2022/08/18 10:36:31 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 10:36:31 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 10:36:31 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 10:36:31 View ID 수신 :  0
+2022/08/18 10:36:31 new table :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 10:36:33 [PREPARE] NodeID: 40000
+2022/08/18 10:36:33 [Prepare-Vote]: 1
+2022/08/18 10:36:33 [PREPARE] NodeID: 30000
+2022/08/18 10:36:33 [Prepare-Vote]: 2
+2022/08/18 10:36:33 [PREPARE] NodeID: 20000
+2022/08/18 10:36:33 [Prepare-Vote]: 1
+2022/08/18 10:36:33 [PREPARE] NodeID: 40000
+2022/08/18 10:36:33 [PREPARE] NodeID: 20000
+2022/08/18 10:36:33 [Prepare-Vote]: 2
+2022/08/18 10:36:33 [Prepare-Vote]: 1
+2022/08/18 10:36:33 [PREPARE] NodeID: 30000
+2022/08/18 10:36:33 [Prepare-Vote]: 2
+2022/08/18 10:36:35 [COMMIT] NodeID: 20000
+2022/08/18 10:36:35 [Commit-Vote]: 1
+2022/08/18 10:36:35 [COMMIT] NodeID: 30000
+2022/08/18 10:36:35 [Commit-Vote]: 2
+2022/08/18 10:36:35 [COMMIT] NodeID: 30000
+2022/08/18 10:36:35 [Commit-Vote]: 1
+2022/08/18 10:36:35 [COMMIT] NodeID: 40000
+2022/08/18 10:36:35 [Commit-Vote]: 2
+2022/08/18 10:36:35 [COMMIT] NodeID: 40000
+2022/08/18 10:36:35 [Commit-Vote]: 1
+2022/08/18 10:36:35 [COMMIT] NodeID: 20000
+2022/08/18 10:36:35 [Commit-Vote]: 2
+2022/08/18 10:36:35 consensus count :  1
+2022/08/18 10:36:35 consensus count :  1
+2022/08/18 10:36:35 consensus count :  1
+2022/08/18 10:38:05 허용 가능 악성 노드 :  1
+2022/08/18 10:38:05 add PrePare to buffer
+2022/08/18 10:38:05 add PrePare to buffer
+2022/08/18 10:38:07 [PREPARE] NodeID: 30000
+2022/08/18 10:38:07 [Prepare-Vote]: 1
+2022/08/18 10:38:07 [PREPARE] NodeID: 20000
+2022/08/18 10:38:07 [Prepare-Vote]: 1
+2022/08/18 10:38:20 허용 가능 악성 노드 :  1
+2022/08/18 10:38:20 add PrePare to buffer
+2022/08/18 10:38:20 add PrePare to buffer
+2022/08/18 10:38:22 [PREPARE] NodeID: 30000
+2022/08/18 10:38:22 [Prepare-Vote]: 1
+2022/08/18 10:38:22 [PREPARE] NodeID: 20000
+2022/08/18 10:38:22 [Prepare-Vote]: 1
+2022/08/18 10:38:25 허용 가능 악성 노드 :  1
+2022/08/18 10:38:27 [PREPARE] NodeID: 20000
+2022/08/18 10:38:27 [Prepare-Vote]: 1
+2022/08/18 10:38:27 add PrePare to buffer
+2022/08/18 10:38:27 add PrePare to buffer
+2022/08/18 10:38:27 [PREPARE] NodeID: 30000
+2022/08/18 10:38:27 [Prepare-Vote]: 1
+2022/08/18 10:38:29 허용 가능 악성 노드 :  1
+2022/08/18 10:38:31 add PrePare to buffer
+2022/08/18 10:38:31 add PrePare to buffer
+2022/08/18 10:38:31 [PREPARE] NodeID: 30000
+2022/08/18 10:38:31 [PREPARE] NodeID: 20000
+2022/08/18 10:38:31 [Prepare-Vote]: 1
+2022/08/18 10:38:31 [Prepare-Vote]: 1
+2022/08/18 10:38:37 get PREPARE from buffer
+2022/08/18 10:38:38 get PREPARE from buffer
+2022/08/18 10:38:39 [PREPARE] NodeID: 40000
+2022/08/18 10:38:39 prepare message is corrupted
+2022/08/18 10:38:39 prepare message is corrupted
+2022/08/18 10:38:39 prepare message is corrupted
+2022/08/18 10:38:39 [PREPARE] NodeID: 40000
+2022/08/18 10:38:39 prepare message is corrupted
+2022/08/18 10:38:39 prepare message is corrupted
+2022/08/18 10:38:39 prepare message is corrupted
+2022/08/18 10:38:39 another consensus is ongoing
+2022/08/18 10:38:39 another consensus is ongoing
+2022/08/18 10:38:39 another consensus is ongoing
+2022/08/18 10:38:39 another consensus is ongoing
+2022/08/18 10:38:39 another consensus is ongoing
+2022/08/18 10:38:39 another consensus is ongoing
+2022/08/18 10:38:39 another consensus is ongoing
+2022/08/18 10:38:39 another consensus is ongoing
+2022/08/18 10:38:39 another consensus is ongoing
+2022/08/18 10:38:39 [PREPARE] NodeID: 20000
+2022/08/18 10:38:39 [Prepare-Vote]: 1
+2022/08/18 10:38:39 [PREPARE] NodeID: 30000
+2022/08/18 10:38:39 [Prepare-Vote]: 2
+2022/08/18 10:38:41 add Commit to buffer
+2022/08/18 10:38:41 add Commit to buffer
+2022/08/18 10:38:41 [PREPARE] NodeID: 30000
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 [PREPARE] NodeID: 20000
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 [PREPARE] NodeID: 30000
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 [PREPARE] NodeID: 20000
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 [PREPARE] NodeID: 20000
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 [PREPARE] NodeID: 30000
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 [PREPARE] NodeID: 20000
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 [PREPARE] NodeID: 30000
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 [PREPARE] NodeID: 30000
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 [PREPARE] NodeID: 20000
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 [PREPARE] NodeID: 30000
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 [PREPARE] NodeID: 20000
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 [PREPARE] NodeID: 20000
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 [PREPARE] NodeID: 30000
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:38:41 prepare message is corrupted
+2022/08/18 10:40:57 허용 가능 악성 노드 :  1
+2022/08/18 10:40:59 [PREPARE] NodeID: 20000
+2022/08/18 10:40:59 [Prepare-Vote]: 1
+2022/08/18 10:40:59 [PREPARE] NodeID: 30000
+2022/08/18 10:40:59 [Prepare-Vote]: 1
+2022/08/18 10:41:02 허용 가능 악성 노드 :  1
+2022/08/18 10:41:02 add PrePare to buffer
+2022/08/18 10:41:02 get PREPARE from buffer
+2022/08/18 10:41:03 get PREPARE from buffer
+2022/08/18 10:41:04 [PREPARE] NodeID: 30000
+2022/08/18 10:41:04 [Prepare-Vote]: 1
+2022/08/18 10:41:04 [PREPARE] NodeID: 20000
+2022/08/18 10:41:04 [Prepare-Vote]: 1
+2022/08/18 10:41:04 [PREPARE] NodeID: 20000
+2022/08/18 10:41:04 [Prepare-Vote]: 1
+2022/08/18 10:41:04 get PREPARE from buffer
+2022/08/18 10:41:04 [PREPARE] NodeID: 20000
+2022/08/18 10:41:04 [Prepare-Vote]: 1
+2022/08/18 10:41:05 get PREPARE from buffer
+2022/08/18 10:41:05 [PREPARE] NodeID: 20000
+2022/08/18 10:41:05 [Prepare-Vote]: 1
+2022/08/18 10:41:06 get PREPARE from buffer
+2022/08/18 10:41:06 [PREPARE] NodeID: 20000
+2022/08/18 10:41:06 [Prepare-Vote]: 1
+2022/08/18 10:41:06 허용 가능 악성 노드 :  1
+2022/08/18 10:41:07 get PREPARE from buffer
+2022/08/18 10:41:08 get PREPARE from buffer
+2022/08/18 10:41:08 [PREPARE] NodeID: 20000
+2022/08/18 10:41:08 prepare message is corrupted
+2022/08/18 10:41:08 prepare message is corrupted
+2022/08/18 10:41:08 prepare message is corrupted
+2022/08/18 10:41:08 [PREPARE] NodeID: 20000
+2022/08/18 10:41:08 prepare message is corrupted
+2022/08/18 10:41:08 prepare message is corrupted
+2022/08/18 10:41:08 prepare message is corrupted
+2022/08/18 10:41:08 [PREPARE] NodeID: 20000
+2022/08/18 10:41:08 prepare message is corrupted
+2022/08/18 10:41:08 prepare message is corrupted
+2022/08/18 10:41:08 [PREPARE] NodeID: 20000
+2022/08/18 10:41:08 [Prepare-Vote]: 1
+2022/08/18 10:41:08 prepare message is corrupted
+2022/08/18 10:41:08 [PREPARE] NodeID: 30000
+2022/08/18 10:41:08 [Prepare-Vote]: 1
+2022/08/18 10:41:10 허용 가능 악성 노드 :  1
+2022/08/18 10:41:12 [PREPARE] NodeID: 30000
+2022/08/18 10:41:12 [Prepare-Vote]: 1
+2022/08/18 10:41:12 [PREPARE] NodeID: 20000
+2022/08/18 10:41:12 [Prepare-Vote]: 1
+2022/08/18 10:41:32 허용 가능 악성 노드 :  1
+2022/08/18 10:41:34 [PREPARE] NodeID: 20000
+2022/08/18 10:41:34 [Prepare-Vote]: 1
+2022/08/18 10:41:34 [PREPARE] NodeID: 30000
+2022/08/18 10:41:34 [Prepare-Vote]: 1
+2022/08/18 10:42:18 server on
+2022/08/18 10:42:18 노드 실행 : 192.168.10.159:10000 
+2022/08/18 10:42:18 listen tcp 192.168.10.159:10000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/08/18 10:42:21 server on
+2022/08/18 10:42:23 노드 실행 : 192.168.10.159:20000 
+2022/08/18 10:42:24 server on
+2022/08/18 10:42:26 노드 실행 : 192.168.10.159:30000 
+2022/08/18 10:42:27 server on
+2022/08/18 10:42:29 노드 실행 : 192.168.10.159:40000 
+2022/08/18 10:43:04 허용 가능 악성 노드 :  1
+2022/08/18 10:43:04 pre-prepare message is corrupted
+2022/08/18 10:43:04 pre-prepare message is corrupted
+2022/08/18 10:43:04 pre-prepare message is corrupted
+2022/08/18 10:43:04 pre-prepare message is corrupted
+2022/08/18 10:43:04 pre-prepare message is corrupted
+2022/08/18 10:43:04 pre-prepare message is corrupted
+2022/08/18 10:43:04 pre-prepare message is corrupted
+2022/08/18 10:43:04 pre-prepare message is corrupted
+2022/08/18 10:43:04 pre-prepare message is corrupted
+2022/08/18 10:43:10 허용 가능 악성 노드 :  1
+2022/08/18 10:43:10 pre-prepare message is corrupted
+2022/08/18 10:43:10 pre-prepare message is corrupted
+2022/08/18 10:43:10 pre-prepare message is corrupted
+2022/08/18 10:43:10 pre-prepare message is corrupted
+2022/08/18 10:43:10 pre-prepare message is corrupted
+2022/08/18 10:43:10 pre-prepare message is corrupted
+2022/08/18 10:43:10 pre-prepare message is corrupted
+2022/08/18 10:43:10 pre-prepare message is corrupted
+2022/08/18 10:43:10 pre-prepare message is corrupted
+2022/08/18 10:43:14 허용 가능 악성 노드 :  1
+2022/08/18 10:43:14 pre-prepare message is corrupted
+2022/08/18 10:43:14 pre-prepare message is corrupted
+2022/08/18 10:43:14 pre-prepare message is corrupted
+2022/08/18 10:43:14 pre-prepare message is corrupted
+2022/08/18 10:43:14 pre-prepare message is corrupted
+2022/08/18 10:43:14 pre-prepare message is corrupted
+2022/08/18 10:43:14 pre-prepare message is corrupted
+2022/08/18 10:43:14 pre-prepare message is corrupted
+2022/08/18 10:43:14 pre-prepare message is corrupted
+2022/08/18 10:43:29 허용 가능 악성 노드 :  1
+2022/08/18 10:43:29 pre-prepare message is corrupted
+2022/08/18 10:43:29 pre-prepare message is corrupted
+2022/08/18 10:43:29 pre-prepare message is corrupted
+2022/08/18 10:43:29 pre-prepare message is corrupted
+2022/08/18 10:43:29 pre-prepare message is corrupted
+2022/08/18 10:43:29 pre-prepare message is corrupted
+2022/08/18 10:43:29 pre-prepare message is corrupted
+2022/08/18 10:43:29 pre-prepare message is corrupted
+2022/08/18 10:43:29 pre-prepare message is corrupted
+2022/08/18 10:43:35 허용 가능 악성 노드 :  1
+2022/08/18 10:43:35 pre-prepare message is corrupted
+2022/08/18 10:43:35 pre-prepare message is corrupted
+2022/08/18 10:43:35 pre-prepare message is corrupted
+2022/08/18 10:43:35 pre-prepare message is corrupted
+2022/08/18 10:43:35 pre-prepare message is corrupted
+2022/08/18 10:43:35 pre-prepare message is corrupted
+2022/08/18 10:43:35 pre-prepare message is corrupted
+2022/08/18 10:43:35 pre-prepare message is corrupted
+2022/08/18 10:43:35 pre-prepare message is corrupted
+2022/08/18 10:43:44 허용 가능 악성 노드 :  1
+2022/08/18 10:43:44 pre-prepare message is corrupted
+2022/08/18 10:43:44 pre-prepare message is corrupted
+2022/08/18 10:43:44 pre-prepare message is corrupted
+2022/08/18 10:43:44 pre-prepare message is corrupted
+2022/08/18 10:43:44 pre-prepare message is corrupted
+2022/08/18 10:43:44 pre-prepare message is corrupted
+2022/08/18 10:43:44 pre-prepare message is corrupted
+2022/08/18 10:43:44 pre-prepare message is corrupted
+2022/08/18 10:43:44 pre-prepare message is corrupted
+2022/08/18 10:43:58 허용 가능 악성 노드 :  1
+2022/08/18 10:43:58 pre-prepare message is corrupted
+2022/08/18 10:43:58 pre-prepare message is corrupted
+2022/08/18 10:43:58 pre-prepare message is corrupted
+2022/08/18 10:43:58 pre-prepare message is corrupted
+2022/08/18 10:43:58 pre-prepare message is corrupted
+2022/08/18 10:43:58 pre-prepare message is corrupted
+2022/08/18 10:43:58 pre-prepare message is corrupted
+2022/08/18 10:43:58 pre-prepare message is corrupted
+2022/08/18 10:43:58 pre-prepare message is corrupted
+2022/08/18 10:44:02 허용 가능 악성 노드 :  1
+2022/08/18 10:44:02 pre-prepare message is corrupted
+2022/08/18 10:44:02 pre-prepare message is corrupted
+2022/08/18 10:44:02 pre-prepare message is corrupted
+2022/08/18 10:44:02 pre-prepare message is corrupted
+2022/08/18 10:44:02 pre-prepare message is corrupted
+2022/08/18 10:44:02 pre-prepare message is corrupted
+2022/08/18 10:44:02 pre-prepare message is corrupted
+2022/08/18 10:44:02 pre-prepare message is corrupted
+2022/08/18 10:44:02 pre-prepare message is corrupted
+2022/08/18 11:21:21 server on
+2022/08/18 11:21:21 노드 실행 : 192.168.10.159:10000 
+2022/08/18 11:21:24 server on
+2022/08/18 11:21:26 노드 실행 : 192.168.10.159:20000 
+2022/08/18 11:21:27 server on
+2022/08/18 11:21:29 노드 실행 : 192.168.10.159:30000 
+2022/08/18 11:21:30 server on
+2022/08/18 11:21:32 노드 실행 : 192.168.10.159:40000 
+2022/08/18 11:55:53 허용 가능 악성 노드 :  0
+2022/08/18 11:55:53 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 11:55:53 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 11:55:53 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 11:55:53 View ID 수신 :  0
+2022/08/18 11:55:53 new table :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 11:55:55 [PREPARE] NodeID: 40000
+2022/08/18 11:55:55 [Prepare-Vote]: 1
+2022/08/18 11:55:55 [PREPARE] NodeID: 30000
+2022/08/18 11:55:55 [Prepare-Vote]: 1
+2022/08/18 11:55:55 [PREPARE] NodeID: 20000
+2022/08/18 11:55:55 [Prepare-Vote]: 2
+2022/08/18 11:55:55 add Commit to buffer
+2022/08/18 11:55:55 [PREPARE] NodeID: 20000
+2022/08/18 11:55:55 [Prepare-Vote]: 2
+2022/08/18 11:55:55 [PREPARE] NodeID: 30000
+2022/08/18 11:55:55 [Prepare-Vote]: 1
+2022/08/18 11:55:55 [PREPARE] NodeID: 40000
+2022/08/18 11:55:55 [Prepare-Vote]: 2
+2022/08/18 11:55:57 [COMMIT] NodeID: 30000
+2022/08/18 11:55:57 [Commit-Vote]: 1
+2022/08/18 11:55:57 [COMMIT] NodeID: 20000
+2022/08/18 11:55:57 [Commit-Vote]: 2
+2022/08/18 11:55:57 [COMMIT] NodeID: 40000
+2022/08/18 11:55:57 [Commit-Vote]: 1
+2022/08/18 11:55:57 [COMMIT] NodeID: 30000
+2022/08/18 11:55:57 [Commit-Vote]: 2
+2022/08/18 11:55:57 [COMMIT] NodeID: 40000
+2022/08/18 11:55:57 [Commit-Vote]: 1
+2022/08/18 11:55:57 [COMMIT] NodeID: 20000
+2022/08/18 11:55:57 [Commit-Vote]: 2
+2022/08/18 11:55:57 consensus count :  1
+2022/08/18 11:55:57 consensus count :  1
+2022/08/18 11:55:57 consensus count :  1
+2022/08/18 11:56:51 허용 가능 악성 노드 :  1
+2022/08/18 11:57:16 [PREPARE] NodeID: 20000
+2022/08/18 11:57:16 [Prepare-Vote]: 1
+2022/08/18 11:57:16 [PREPARE] NodeID: 40000
+2022/08/18 11:57:16 [PREPARE] NodeID: 30000
+2022/08/18 11:57:16 [Prepare-Vote]: 2
+2022/08/18 11:57:16 [PREPARE] NodeID: 30000
+2022/08/18 11:57:16 [Prepare-Vote]: 1
+2022/08/18 11:57:16 [PREPARE] NodeID: 40000
+2022/08/18 11:57:16 [Prepare-Vote]: 1
+2022/08/18 11:57:16 [Prepare-Vote]: 2
+2022/08/18 11:57:16 [PREPARE] NodeID: 20000
+2022/08/18 11:57:16 [Prepare-Vote]: 2
+2022/08/18 11:57:18 [COMMIT] NodeID: 20000
+2022/08/18 11:57:18 [Commit-Vote]: 1
+2022/08/18 11:57:18 [COMMIT] NodeID: 30000
+2022/08/18 11:57:18 [COMMIT] NodeID: 40000
+2022/08/18 11:57:18 [Commit-Vote]: 2
+2022/08/18 11:57:18 [Commit-Vote]: 1
+2022/08/18 11:57:18 [COMMIT] NodeID: 30000
+2022/08/18 11:57:18 [Commit-Vote]: 2
+2022/08/18 11:57:18 [COMMIT] NodeID: 40000
+2022/08/18 11:57:18 [Commit-Vote]: 1
+2022/08/18 11:57:18 [COMMIT] NodeID: 20000
+2022/08/18 11:57:18 [Commit-Vote]: 2
+2022/08/18 11:57:18 consensus count :  2
+2022/08/18 11:57:18 consensus count :  2
+2022/08/18 11:57:18 consensus count :  2
+2022/08/18 12:02:00 허용 가능 악성 노드 :  1
+2022/08/18 12:02:00 invalid character '3' after array element
+2022/08/18 12:02:04 허용 가능 악성 노드 :  1
+2022/08/18 12:02:04 invalid character '3' after array element
+2022/08/18 12:02:16 server on
+2022/08/18 12:02:16 노드 실행 : 192.168.10.159:10000 
+2022/08/18 12:02:19 server on
+2022/08/18 12:02:22 server on
+2022/08/18 12:02:25 server on
+2022/08/18 12:02:27 노드 실행 : 192.168.10.159:40000 
+2022/08/18 12:02:36 server on
+2022/08/18 12:02:37 노드 실행 : 192.168.10.159:10000 
+2022/08/18 12:02:39 server on
+2022/08/18 12:02:41 노드 실행 : 192.168.10.159:20000 
+2022/08/18 12:02:42 server on
+2022/08/18 12:02:44 노드 실행 : 192.168.10.159:30000 
+2022/08/18 12:02:45 server on
+2022/08/18 12:02:47 노드 실행 : 192.168.10.159:40000 
+2022/08/18 12:03:00 허용 가능 악성 노드 :  0
+2022/08/18 12:03:00 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 12:03:00 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 12:03:00 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 12:03:00 View ID 수신 :  0
+2022/08/18 12:03:00 new table :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 12:03:00 invalid character '3' after array element
+2022/08/18 12:03:49 허용 가능 악성 노드 :  1
+2022/08/18 12:03:49 json: cannot unmarshal number 495153445551444950 into Go struct field RequestMsg.TxID of type uint8
+2022/08/18 12:03:58 허용 가능 악성 노드 :  1
+2022/08/18 12:03:58 add PrePare to buffer
+2022/08/18 12:03:58 add PrePare to buffer
+2022/08/18 12:03:59 get PREPARE from buffer
+2022/08/18 12:04:00 get PREPARE from buffer
+2022/08/18 12:04:00 [PREPARE] NodeID: 40000
+2022/08/18 12:04:00 [Prepare-Vote]: 1
+2022/08/18 12:04:00 [PREPARE] NodeID: 40000
+2022/08/18 12:04:00 [Prepare-Vote]: 1
+2022/08/18 12:04:00 [PREPARE] NodeID: 20000
+2022/08/18 12:04:00 [Prepare-Vote]: 1
+2022/08/18 12:04:00 [PREPARE] NodeID: 40000
+2022/08/18 12:04:00 [Prepare-Vote]: 1
+2022/08/18 12:04:00 [PREPARE] NodeID: 30000
+2022/08/18 12:04:00 [Prepare-Vote]: 2
+2022/08/18 12:04:00 add Commit to buffer
+2022/08/18 12:04:00 add Commit to buffer
+2022/08/18 12:04:00 [PREPARE] NodeID: 30000
+2022/08/18 12:04:00 [Prepare-Vote]: 2
+2022/08/18 12:04:00 [PREPARE] NodeID: 40000
+2022/08/18 12:04:00 [Prepare-Vote]: 1
+2022/08/18 12:04:00 [PREPARE] NodeID: 20000
+2022/08/18 12:04:00 [Prepare-Vote]: 2
+2022/08/18 12:04:01 get COMMIT from buffer
+2022/08/18 12:04:02 get COMMIT from buffer
+2022/08/18 12:04:02 [COMMIT] NodeID: 20000
+2022/08/18 12:04:02 [Commit-Vote]: 1
+2022/08/18 12:04:02 [COMMIT] NodeID: 20000
+2022/08/18 12:04:02 [Commit-Vote]: 1
+2022/08/18 12:04:02 [COMMIT] NodeID: 40000
+2022/08/18 12:04:02 [Commit-Vote]: 1
+2022/08/18 12:04:02 [COMMIT] NodeID: 30000
+2022/08/18 12:04:02 [Commit-Vote]: 2
+2022/08/18 12:04:02 [COMMIT] NodeID: 20000
+2022/08/18 12:04:02 [Commit-Vote]: 1
+2022/08/18 12:04:02 [COMMIT] NodeID: 30000
+2022/08/18 12:04:02 [Commit-Vote]: 2
+2022/08/18 12:04:02 [COMMIT] NodeID: 20000
+2022/08/18 12:04:02 [Commit-Vote]: 1
+2022/08/18 12:04:02 [COMMIT] NodeID: 40000
+2022/08/18 12:04:02 [Commit-Vote]: 2
+2022/08/18 12:04:02 consensus count :  1
+2022/08/18 12:04:02 consensus count :  1
+2022/08/18 12:04:02 consensus count :  1
+2022/08/18 12:04:13 허용 가능 악성 노드 :  1
+2022/08/18 12:04:15 [PREPARE] NodeID: 20000
+2022/08/18 12:04:15 [Prepare-Vote]: 1
+2022/08/18 12:04:15 [PREPARE] NodeID: 40000
+2022/08/18 12:04:15 [Prepare-Vote]: 2
+2022/08/18 12:04:15 [PREPARE] NodeID: 30000
+2022/08/18 12:04:15 [Prepare-Vote]: 1
+2022/08/18 12:04:15 [PREPARE] NodeID: 20000
+2022/08/18 12:04:15 [Prepare-Vote]: 2
+2022/08/18 12:04:15 add Commit to buffer
+2022/08/18 12:04:15 [PREPARE] NodeID: 30000
+2022/08/18 12:04:15 [Prepare-Vote]: 1
+2022/08/18 12:04:15 [PREPARE] NodeID: 40000
+2022/08/18 12:04:15 [Prepare-Vote]: 2
+2022/08/18 12:04:16 get COMMIT from buffer
+2022/08/18 12:04:17 get COMMIT from buffer
+2022/08/18 12:04:17 [COMMIT] NodeID: 20000
+2022/08/18 12:04:17 [Commit-Vote]: 1
+2022/08/18 12:04:17 [COMMIT] NodeID: 40000
+2022/08/18 12:04:17 [Commit-Vote]: 2
+2022/08/18 12:04:17 [COMMIT] NodeID: 40000
+2022/08/18 12:04:17 [COMMIT] NodeID: 30000
+2022/08/18 12:04:17 [Commit-Vote]: 1
+2022/08/18 12:04:17 [Commit-Vote]: 1
+2022/08/18 12:04:17 [COMMIT] NodeID: 30000
+2022/08/18 12:04:17 [Commit-Vote]: 1
+2022/08/18 12:04:17 [COMMIT] NodeID: 30000
+2022/08/18 12:04:17 [Commit-Vote]: 1
+2022/08/18 12:04:17 [COMMIT] NodeID: 30000
+2022/08/18 12:04:17 [COMMIT] NodeID: 20000
+2022/08/18 12:04:17 [Commit-Vote]: 2
+2022/08/18 12:04:17 [Commit-Vote]: 2
+2022/08/18 12:04:17 consensus count :  2
+2022/08/18 12:04:17 consensus count :  2
+2022/08/18 12:04:17 consensus count :  2
+2022/08/18 12:04:37 허용 가능 악성 노드 :  1
+2022/08/18 12:04:39 [PREPARE] NodeID: 30000
+2022/08/18 12:04:39 [Prepare-Vote]: 1
+2022/08/18 12:04:39 [PREPARE] NodeID: 20000
+2022/08/18 12:04:39 [PREPARE] NodeID: 20000
+2022/08/18 12:04:39 [Prepare-Vote]: 2
+2022/08/18 12:04:39 [Prepare-Vote]: 1
+2022/08/18 12:04:39 [PREPARE] NodeID: 40000
+2022/08/18 12:04:39 [PREPARE] NodeID: 40000
+2022/08/18 12:04:39 [Prepare-Vote]: 2
+2022/08/18 12:04:39 [Prepare-Vote]: 1
+2022/08/18 12:04:39 [PREPARE] NodeID: 30000
+2022/08/18 12:04:39 [Prepare-Vote]: 2
+2022/08/18 12:04:42 [COMMIT] NodeID: 40000
+2022/08/18 12:04:42 [Commit-Vote]: 1
+2022/08/18 12:04:42 [COMMIT] NodeID: 20000
+2022/08/18 12:04:42 [COMMIT] NodeID: 30000
+2022/08/18 12:04:42 [Commit-Vote]: 2
+2022/08/18 12:04:42 [Commit-Vote]: 1
+2022/08/18 12:04:42 [COMMIT] NodeID: 30000
+2022/08/18 12:04:42 [Commit-Vote]: 2
+2022/08/18 12:04:42 [COMMIT] NodeID: 20000
+2022/08/18 12:04:42 [Commit-Vote]: 1
+2022/08/18 12:04:42 [COMMIT] NodeID: 40000
+2022/08/18 12:04:42 [Commit-Vote]: 2
+2022/08/18 12:04:42 consensus count :  3
+2022/08/18 12:04:42 consensus count :  3
+2022/08/18 12:04:42 consensus count :  3
+2022/08/18 12:05:10 server on
+2022/08/18 12:05:10 노드 실행 : 192.168.10.159:10000 
+2022/08/18 12:05:12 server on
+2022/08/18 12:05:14 노드 실행 : 192.168.10.159:20000 
+2022/08/18 12:05:15 server on
+2022/08/18 12:05:17 노드 실행 : 192.168.10.159:30000 
+2022/08/18 12:05:18 server on
+2022/08/18 12:05:20 노드 실행 : 192.168.10.159:40000 
+2022/08/18 12:06:10 허용 가능 악성 노드 :  0
+2022/08/18 12:06:10 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 12:06:10 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 12:06:10 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 12:06:10 View ID 수신 :  0
+2022/08/18 12:06:10 new table :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 12:06:10 add PrePare to buffer
+2022/08/18 12:06:10 add PrePare to buffer
+2022/08/18 12:06:10 get PREPARE from buffer
+2022/08/18 12:06:11 get PREPARE from buffer
+2022/08/18 12:06:12 [PREPARE] NodeID: 30000
+2022/08/18 12:06:12 [Prepare-Vote]: 1
+2022/08/18 12:06:12 [PREPARE] NodeID: 40000
+2022/08/18 12:06:12 [PREPARE] NodeID: 20000
+2022/08/18 12:06:12 [Prepare-Vote]: 2
+2022/08/18 12:06:12 [Prepare-Vote]: 1
+2022/08/18 12:06:12 [PREPARE] NodeID: 20000
+2022/08/18 12:06:12 [Prepare-Vote]: 1
+2022/08/18 12:06:12 [PREPARE] NodeID: 20000
+2022/08/18 12:06:12 [Prepare-Vote]: 1
+2022/08/18 12:06:12 [PREPARE] NodeID: 40000
+2022/08/18 12:06:12 [Prepare-Vote]: 2
+2022/08/18 12:06:12 [PREPARE] NodeID: 20000
+2022/08/18 12:06:12 [Prepare-Vote]: 1
+2022/08/18 12:06:12 [PREPARE] NodeID: 30000
+2022/08/18 12:06:12 [Prepare-Vote]: 2
+2022/08/18 12:06:14 [COMMIT] NodeID: 40000
+2022/08/18 12:06:14 [Commit-Vote]: 1
+2022/08/18 12:06:14 [COMMIT] NodeID: 20000
+2022/08/18 12:06:14 [Commit-Vote]: 1
+2022/08/18 12:06:14 [COMMIT] NodeID: 30000
+2022/08/18 12:06:14 [Commit-Vote]: 2
+2022/08/18 12:06:14 [COMMIT] NodeID: 30000
+2022/08/18 12:06:14 [Commit-Vote]: 2
+2022/08/18 12:06:14 [COMMIT] NodeID: 40000
+2022/08/18 12:06:14 [Commit-Vote]: 1
+2022/08/18 12:06:14 consensus count :  1
+2022/08/18 12:06:14 [COMMIT] NodeID: 20000
+2022/08/18 12:06:14 [Commit-Vote]: 2
+2022/08/18 12:06:14 consensus count :  1
+2022/08/18 12:06:14 consensus count :  1
+2022/08/18 12:13:47 허용 가능 악성 노드 :  1
+2022/08/18 12:13:47 add PrePare to buffer
+2022/08/18 12:13:47 add PrePare to buffer
+2022/08/18 12:13:47 get PREPARE from buffer
+2022/08/18 12:13:48 get PREPARE from buffer
+2022/08/18 12:13:49 [PREPARE] NodeID: 40000
+2022/08/18 12:13:49 [Prepare-Vote]: 1
+2022/08/18 12:13:49 [PREPARE] NodeID: 30000
+2022/08/18 12:13:49 [Prepare-Vote]: 2
+2022/08/18 12:13:49 [PREPARE] NodeID: 20000
+2022/08/18 12:13:49 [Prepare-Vote]: 1
+2022/08/18 12:13:49 [PREPARE] NodeID: 40000
+2022/08/18 12:13:49 [Prepare-Vote]: 2
+2022/08/18 12:13:49 add Commit to buffer
+2022/08/18 12:13:49 [PREPARE] NodeID: 30000
+2022/08/18 12:13:49 [Prepare-Vote]: 1
+2022/08/18 12:13:49 [PREPARE] NodeID: 20000
+2022/08/18 12:13:49 [Prepare-Vote]: 2
+2022/08/18 12:13:49 get COMMIT from buffer
+2022/08/18 12:13:50 get COMMIT from buffer
+2022/08/18 12:13:51 [COMMIT] NodeID: 20000
+2022/08/18 12:13:51 [Commit-Vote]: 1
+2022/08/18 12:13:51 [COMMIT] NodeID: 30000
+2022/08/18 12:13:51 [Commit-Vote]: 1
+2022/08/18 12:13:51 [COMMIT] NodeID: 40000
+2022/08/18 12:13:51 [Commit-Vote]: 2
+2022/08/18 12:13:51 consensus count :  2
+2022/08/18 12:13:51 [COMMIT] NodeID: 40000
+2022/08/18 12:13:51 [Commit-Vote]: 2
+2022/08/18 12:13:51 [PREPARE] NodeID: 30000
+2022/08/18 12:13:51 prepare message is corrupted
+2022/08/18 12:13:51 prepare message is corrupted
+2022/08/18 12:13:51 [PREPARE] NodeID: 20000
+2022/08/18 12:13:51 prepare message is corrupted
+2022/08/18 12:13:51 prepare message is corrupted
+2022/08/18 12:13:51 prepare message is corrupted
+2022/08/18 12:13:51 prepare message is corrupted
+2022/08/18 12:13:51 [COMMIT] NodeID: 20000
+2022/08/18 12:13:51 [Commit-Vote]: 1
+2022/08/18 12:13:51 [COMMIT] NodeID: 20000
+2022/08/18 12:13:51 [Commit-Vote]: 1
+2022/08/18 12:13:51 [COMMIT] NodeID: 20000
+2022/08/18 12:13:51 [Commit-Vote]: 1
+2022/08/18 12:13:51 [COMMIT] NodeID: 30000
+2022/08/18 12:13:51 [Commit-Vote]: 2
+2022/08/18 12:13:51 consensus count :  2
+2022/08/18 12:13:51 consensus count :  2
+2022/08/18 12:15:48 허용 가능 악성 노드 :  1
+2022/08/18 12:15:48 add PrePare to buffer
+2022/08/18 12:15:48 get PREPARE from buffer
+2022/08/18 12:15:49 get PREPARE from buffer
+2022/08/18 12:15:49 get PREPARE from buffer
+2022/08/18 12:15:50 get PREPARE from buffer
+2022/08/18 12:15:50 [PREPARE] NodeID: 40000
+2022/08/18 12:15:50 [PREPARE] NodeID: 40000
+2022/08/18 12:15:50 [Prepare-Vote]: 1
+2022/08/18 12:15:50 [Prepare-Vote]: 1
+2022/08/18 12:15:50 [PREPARE] NodeID: 40000
+2022/08/18 12:15:50 [Prepare-Vote]: 1
+2022/08/18 12:15:50 [PREPARE] NodeID: 40000
+2022/08/18 12:15:50 [Prepare-Vote]: 1
+2022/08/18 12:15:50 [PREPARE] NodeID: 30000
+2022/08/18 12:15:50 [Prepare-Vote]: 2
+2022/08/18 12:15:50 [PREPARE] NodeID: 20000
+2022/08/18 12:15:50 [Prepare-Vote]: 2
+2022/08/18 12:15:50 add Commit to buffer
+2022/08/18 12:15:50 [PREPARE] NodeID: 30000
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 [PREPARE] NodeID: 20000
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 [PREPARE] NodeID: 30000
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 [PREPARE] NodeID: 20000
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 [PREPARE] NodeID: 30000
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 [PREPARE] NodeID: 20000
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 [PREPARE] NodeID: 30000
+2022/08/18 12:15:50 [Prepare-Vote]: 1
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 prepare message is corrupted
+2022/08/18 12:15:50 [PREPARE] NodeID: 20000
+2022/08/18 12:15:50 [Prepare-Vote]: 2
+2022/08/18 12:15:50 get COMMIT from buffer
+2022/08/18 12:15:51 get COMMIT from buffer
+2022/08/18 12:15:52 [COMMIT] NodeID: 20000
+2022/08/18 12:15:52 [Commit-Vote]: 1
+2022/08/18 12:15:52 [COMMIT] NodeID: 40000
+2022/08/18 12:15:52 [Commit-Vote]: 2
+2022/08/18 12:15:52 [COMMIT] NodeID: 30000
+2022/08/18 12:15:52 [COMMIT] NodeID: 30000
+2022/08/18 12:15:52 [Commit-Vote]: 1
+2022/08/18 12:15:52 [Commit-Vote]: 1
+2022/08/18 12:15:52 [COMMIT] NodeID: 30000
+2022/08/18 12:15:52 [COMMIT] NodeID: 40000
+2022/08/18 12:15:52 [Commit-Vote]: 2
+2022/08/18 12:15:52 [Commit-Vote]: 1
+2022/08/18 12:15:52 [COMMIT] NodeID: 30000
+2022/08/18 12:15:52 [Commit-Vote]: 1
+2022/08/18 12:15:52 [COMMIT] NodeID: 20000
+2022/08/18 12:15:52 [Commit-Vote]: 2
+2022/08/18 12:15:52 consensus count :  3
+2022/08/18 12:15:52 consensus count :  3
+2022/08/18 12:15:52 consensus count :  3
+2022/08/18 12:30:29 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 12:30:29 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 12:30:29 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 12:30:29 View ID 수신 :  0
+2022/08/18 12:33:38 허용 가능 악성 노드 :  1
+2022/08/18 12:33:38 pre-prepare message is corrupted
+2022/08/18 12:33:38 pre-prepare message is corrupted
+2022/08/18 12:33:38 pre-prepare message is corrupted
+2022/08/18 12:33:40 add PrePare to buffer
+2022/08/18 12:33:40 [PREPARE] NodeID: 30000
+2022/08/18 12:33:40 [Prepare-Vote]: 1
+2022/08/18 12:33:40 add PrePare to buffer
+2022/08/18 12:33:40 [PREPARE] NodeID: 20000
+2022/08/18 12:33:40 [Prepare-Vote]: 1
+2022/08/18 12:37:52 허용 가능 악성 노드 :  1
+2022/08/18 12:37:52 pre-prepare message is corrupted
+2022/08/18 12:37:52 pre-prepare message is corrupted
+2022/08/18 12:37:52 pre-prepare message is corrupted
+2022/08/18 12:37:54 add PrePare to buffer
+2022/08/18 12:37:54 add PrePare to buffer
+2022/08/18 12:37:54 [PREPARE] NodeID: 20000
+2022/08/18 12:37:54 [Prepare-Vote]: 1
+2022/08/18 12:37:54 [PREPARE] NodeID: 30000
+2022/08/18 12:37:54 [Prepare-Vote]: 1
+2022/08/18 13:02:06 server on
+2022/08/18 13:02:06 노드 실행 : 192.168.10.159:10000 
+2022/08/18 13:02:06 listen tcp 192.168.10.159:10000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/08/18 13:02:09 server on
+2022/08/18 13:02:11 노드 실행 : 192.168.10.159:20000 
+2022/08/18 13:02:11 listen tcp 192.168.10.159:20000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/08/18 13:02:12 server on
+2022/08/18 13:02:14 노드 실행 : 192.168.10.159:30000 
+2022/08/18 13:02:14 listen tcp 192.168.10.159:30000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/08/18 13:02:15 server on
+2022/08/18 13:02:17 노드 실행 : 192.168.10.159:40000 
+2022/08/18 13:02:17 listen tcp 192.168.10.159:40000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/08/18 13:02:57 server on
+2022/08/18 13:02:57 노드 실행 : 192.168.10.159:10000 
+2022/08/18 13:02:59 server on
+2022/08/18 13:03:01 노드 실행 : 192.168.10.159:20000 
+2022/08/18 13:03:02 server on
+2022/08/18 13:03:04 노드 실행 : 192.168.10.159:30000 
+2022/08/18 13:03:05 server on
+2022/08/18 13:03:07 노드 실행 : 192.168.10.159:40000 
+2022/08/18 13:04:04 허용 가능 악성 노드 :  0
+2022/08/18 13:04:04 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 13:04:04 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 13:04:04 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 13:04:04 View ID 수신 :  0
+2022/08/18 13:04:04 new table :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 13:04:06 [PREPARE] NodeID: 30000
+2022/08/18 13:04:06 [Prepare-Vote]: 1
+2022/08/18 13:04:06 [PREPARE] NodeID: 20000
+2022/08/18 13:04:06 [Prepare-Vote]: 2
+2022/08/18 13:04:06 [PREPARE] NodeID: 20000
+2022/08/18 13:04:06 [Prepare-Vote]: 1
+2022/08/18 13:04:06 [PREPARE] NodeID: 40000
+2022/08/18 13:04:06 [Prepare-Vote]: 2
+2022/08/18 13:04:06 [PREPARE] NodeID: 30000
+2022/08/18 13:04:06 [Prepare-Vote]: 1
+2022/08/18 13:04:06 [PREPARE] NodeID: 40000
+2022/08/18 13:04:06 [Prepare-Vote]: 2
+2022/08/18 13:04:08 [COMMIT] NodeID: 40000
+2022/08/18 13:04:08 [Commit-Vote]: 1
+2022/08/18 13:04:08 [COMMIT] NodeID: 30000
+2022/08/18 13:04:08 [Commit-Vote]: 2
+2022/08/18 13:04:08 [COMMIT] NodeID: 20000
+2022/08/18 13:04:08 [COMMIT] NodeID: 20000
+2022/08/18 13:04:08 [Commit-Vote]: 1
+2022/08/18 13:04:08 [Commit-Vote]: 1
+2022/08/18 13:04:08 [COMMIT] NodeID: 40000
+2022/08/18 13:04:08 [COMMIT] NodeID: 30000
+2022/08/18 13:04:08 [Commit-Vote]: 2
+2022/08/18 13:04:08 [Commit-Vote]: 2
+2022/08/18 13:04:08 consensus count :  1
+2022/08/18 13:04:08 consensus count :  1
+2022/08/18 13:04:08 consensus count :  1
+2022/08/18 13:11:29 허용 가능 악성 노드 :  1
+2022/08/18 13:11:31 [PREPARE] NodeID: 20000
+2022/08/18 13:11:31 [PREPARE] NodeID: 30000
+2022/08/18 13:11:31 [Prepare-Vote]: 1
+2022/08/18 13:11:31 [Prepare-Vote]: 1
+2022/08/18 13:11:31 [PREPARE] NodeID: 40000
+2022/08/18 13:11:31 [Prepare-Vote]: 2
+2022/08/18 13:11:31 [PREPARE] NodeID: 20000
+2022/08/18 13:11:31 [Prepare-Vote]: 2
+2022/08/18 13:11:31 [PREPARE] NodeID: 30000
+2022/08/18 13:11:31 [Prepare-Vote]: 1
+2022/08/18 13:11:31 [PREPARE] NodeID: 40000
+2022/08/18 13:11:31 [Prepare-Vote]: 2
+2022/08/18 13:11:33 [COMMIT] NodeID: 20000
+2022/08/18 13:11:33 [COMMIT] NodeID: 20000
+2022/08/18 13:11:33 [Commit-Vote]: 1
+2022/08/18 13:11:33 [Commit-Vote]: 1
+2022/08/18 13:11:33 [COMMIT] NodeID: 40000
+2022/08/18 13:11:33 [COMMIT] NodeID: 30000
+2022/08/18 13:11:33 [Commit-Vote]: 2
+2022/08/18 13:11:33 [Commit-Vote]: 2
+2022/08/18 13:11:33 consensus count :  2
+2022/08/18 13:11:33 consensus count :  2
+2022/08/18 13:11:33 [COMMIT] NodeID: 40000
+2022/08/18 13:11:33 [Commit-Vote]: 1
+2022/08/18 13:11:33 [COMMIT] NodeID: 30000
+2022/08/18 13:11:33 [Commit-Vote]: 2
+2022/08/18 13:11:33 consensus count :  2
+2022/08/18 13:21:43 허용 가능 악성 노드 :  1
+2022/08/18 13:21:46 [PREPARE] NodeID: 40000
+2022/08/18 13:21:46 [Prepare-Vote]: 1
+2022/08/18 13:21:46 [PREPARE] NodeID: 30000
+2022/08/18 13:21:46 [PREPARE] NodeID: 20000
+2022/08/18 13:21:46 [Prepare-Vote]: 2
+2022/08/18 13:21:46 [Prepare-Vote]: 1
+2022/08/18 13:21:46 [PREPARE] NodeID: 20000
+2022/08/18 13:21:46 [Prepare-Vote]: 2
+2022/08/18 13:21:46 [PREPARE] NodeID: 40000
+2022/08/18 13:21:46 [Prepare-Vote]: 1
+2022/08/18 13:21:46 [PREPARE] NodeID: 30000
+2022/08/18 13:21:46 [Prepare-Vote]: 2
+2022/08/18 13:21:48 [COMMIT] NodeID: 40000
+2022/08/18 13:21:48 [Commit-Vote]: 1
+2022/08/18 13:21:48 [COMMIT] NodeID: 30000
+2022/08/18 13:21:48 [Commit-Vote]: 1
+2022/08/18 13:21:48 [COMMIT] NodeID: 20000
+2022/08/18 13:21:48 [Commit-Vote]: 2
+2022/08/18 13:21:48 [COMMIT] NodeID: 20000
+2022/08/18 13:21:48 [Commit-Vote]: 2
+2022/08/18 13:21:48 [COMMIT] NodeID: 30000
+2022/08/18 13:21:48 [Commit-Vote]: 1
+2022/08/18 13:21:48 [COMMIT] NodeID: 40000
+2022/08/18 13:21:48 [Commit-Vote]: 2
+2022/08/18 13:21:48 consensus count :  3
+2022/08/18 13:21:48 consensus count :  3
+2022/08/18 13:21:48 consensus count :  3
+2022/08/18 14:24:12 server on
+2022/08/18 14:24:12 노드 실행 : 192.168.10.159:10000 
+2022/08/18 14:24:15 server on
+2022/08/18 14:24:17 노드 실행 : 192.168.10.159:20000 
+2022/08/18 14:24:18 server on
+2022/08/18 14:24:20 노드 실행 : 192.168.10.159:30000 
+2022/08/18 14:24:21 server on
+2022/08/18 14:24:23 노드 실행 : 192.168.10.159:40000 
+2022/08/18 16:51:38 허용 가능 악성 노드 :  0
+2022/08/18 16:51:38 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 16:51:38 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 16:51:38 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 16:51:38 View ID 수신 :  0
+2022/08/18 16:51:38 new table :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 16:51:40 [PREPARE] NodeID: 30000
+2022/08/18 16:51:40 [Prepare-Vote]: 1
+2022/08/18 16:51:40 [PREPARE] NodeID: 40000
+2022/08/18 16:51:40 [Prepare-Vote]: 2
+2022/08/18 16:51:40 add Commit to buffer
+2022/08/18 16:51:40 [PREPARE] NodeID: 20000
+2022/08/18 16:51:40 [Prepare-Vote]: 1
+2022/08/18 16:51:40 [PREPARE] NodeID: 40000
+2022/08/18 16:51:40 [PREPARE] NodeID: 20000
+2022/08/18 16:51:40 [Prepare-Vote]: 2
+2022/08/18 16:51:40 [Prepare-Vote]: 1
+2022/08/18 16:51:40 [PREPARE] NodeID: 30000
+2022/08/18 16:51:40 [Prepare-Vote]: 2
+2022/08/18 16:51:41 get COMMIT from buffer
+2022/08/18 16:51:42 get COMMIT from buffer
+2022/08/18 16:51:43 [COMMIT] NodeID: 30000
+2022/08/18 16:51:43 [Commit-Vote]: 1
+2022/08/18 16:51:43 [COMMIT] NodeID: 40000
+2022/08/18 16:51:43 [Commit-Vote]: 2
+2022/08/18 16:51:43 [COMMIT] NodeID: 20000
+2022/08/18 16:51:43 [Commit-Vote]: 1
+2022/08/18 16:51:43 [COMMIT] NodeID: 20000
+2022/08/18 16:51:43 [Commit-Vote]: 1
+2022/08/18 16:51:43 [COMMIT] NodeID: 20000
+2022/08/18 16:51:43 [Commit-Vote]: 1
+2022/08/18 16:51:43 [COMMIT] NodeID: 40000
+2022/08/18 16:51:43 [Commit-Vote]: 2
+2022/08/18 16:51:43 [COMMIT] NodeID: 30000
+2022/08/18 16:51:43 [Commit-Vote]: 1
+2022/08/18 16:51:43 [COMMIT] NodeID: 20000
+2022/08/18 16:51:43 [Commit-Vote]: 2
+2022/08/18 16:51:43 consensus count :  1
+2022/08/18 16:51:43 consensus count :  1
+2022/08/18 16:51:43 consensus count :  1
+2022/08/18 17:25:40 허용 가능 악성 노드 :  1
+2022/08/18 17:25:42 add PrePare to buffer
+2022/08/18 17:25:42 add PrePare to buffer
+2022/08/18 17:25:42 [PREPARE] NodeID: 30000
+2022/08/18 17:25:42 [Prepare-Vote]: 1
+2022/08/18 17:25:42 [PREPARE] NodeID: 40000
+2022/08/18 17:25:42 [Prepare-Vote]: 1
+2022/08/18 17:25:53 허용 가능 악성 노드 :  1
+2022/08/18 17:25:55 add PrePare to buffer
+2022/08/18 17:25:55 add PrePare to buffer
+2022/08/18 17:25:55 [PREPARE] NodeID: 30000
+2022/08/18 17:25:55 [PREPARE] NodeID: 40000
+2022/08/18 17:25:55 [Prepare-Vote]: 1
+2022/08/18 17:25:55 [Prepare-Vote]: 1
+2022/08/18 17:30:33 허용 가능 악성 노드 :  1
+2022/08/18 17:30:35 add PrePare to buffer
+2022/08/18 17:30:35 add PrePare to buffer
+2022/08/18 17:30:58 허용 가능 악성 노드 :  1
+2022/08/18 17:30:58 add PrePare to buffer
+2022/08/18 17:30:58 add PrePare to buffer
+2022/08/18 17:31:16 server on
+2022/08/18 17:31:16 노드 실행 : 192.168.10.159:10000 
+2022/08/18 17:31:19 server on
+2022/08/18 17:31:21 노드 실행 : 192.168.10.159:20000 
+2022/08/18 17:31:22 server on
+2022/08/18 17:31:24 노드 실행 : 192.168.10.159:30000 
+2022/08/18 17:31:25 server on
+2022/08/18 17:31:27 노드 실행 : 192.168.10.159:40000 
+2022/08/18 17:31:51 허용 가능 악성 노드 :  0
+2022/08/18 17:31:51 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:31:51 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:31:51 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:31:51 View ID 수신 :  0
+2022/08/18 17:31:51 new table :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:31:51 add PrePare to buffer
+2022/08/18 17:31:52 get PREPARE from buffer
+2022/08/18 17:31:53 get PREPARE from buffer
+2022/08/18 17:31:53 [PREPARE] NodeID: 30000
+2022/08/18 17:31:53 [Prepare-Vote]: 1
+2022/08/18 17:31:53 [PREPARE] NodeID: 30000
+2022/08/18 17:31:53 [Prepare-Vote]: 1
+2022/08/18 17:31:53 [PREPARE] NodeID: 40000
+2022/08/18 17:31:53 [Prepare-Vote]: 1
+2022/08/18 17:31:53 [PREPARE] NodeID: 20000
+2022/08/18 17:31:53 [Prepare-Vote]: 2
+2022/08/18 17:31:53 [PREPARE] NodeID: 30000
+2022/08/18 17:31:53 [Prepare-Vote]: 1
+2022/08/18 17:31:53 [PREPARE] NodeID: 20000
+2022/08/18 17:31:53 [Prepare-Vote]: 2
+2022/08/18 17:31:53 [PREPARE] NodeID: 40000
+2022/08/18 17:31:53 [Prepare-Vote]: 1
+2022/08/18 17:31:53 [PREPARE] NodeID: 30000
+2022/08/18 17:31:53 [Prepare-Vote]: 2
+2022/08/18 17:31:55 [COMMIT] NodeID: 20000
+2022/08/18 17:31:55 [Commit-Vote]: 1
+2022/08/18 17:31:55 [COMMIT] NodeID: 30000
+2022/08/18 17:31:55 [Commit-Vote]: 1
+2022/08/18 17:31:55 [COMMIT] NodeID: 40000
+2022/08/18 17:31:55 [Commit-Vote]: 2
+2022/08/18 17:31:55 [COMMIT] NodeID: 40000
+2022/08/18 17:31:55 [Commit-Vote]: 2
+2022/08/18 17:31:55 [COMMIT] NodeID: 30000
+2022/08/18 17:31:55 [Commit-Vote]: 1
+2022/08/18 17:31:55 [COMMIT] NodeID: 20000
+2022/08/18 17:31:55 [Commit-Vote]: 2
+2022/08/18 17:31:55 consensus count :  1
+2022/08/18 17:31:55 consensus count :  1
+2022/08/18 17:31:55 consensus count :  1
+2022/08/18 17:32:04 허용 가능 악성 노드 :  1
+2022/08/18 17:32:06 [PREPARE] NodeID: 20000
+2022/08/18 17:32:06 [Prepare-Vote]: 1
+2022/08/18 17:32:06 [PREPARE] NodeID: 30000
+2022/08/18 17:32:06 [Prepare-Vote]: 1
+2022/08/18 17:32:06 [PREPARE] NodeID: 40000
+2022/08/18 17:32:06 [Prepare-Vote]: 2
+2022/08/18 17:32:06 [PREPARE] NodeID: 40000
+2022/08/18 17:32:06 [Prepare-Vote]: 2
+2022/08/18 17:32:06 [PREPARE] NodeID: 30000
+2022/08/18 17:32:06 [Prepare-Vote]: 1
+2022/08/18 17:32:06 [PREPARE] NodeID: 20000
+2022/08/18 17:32:06 [Prepare-Vote]: 2
+2022/08/18 17:32:08 [COMMIT] NodeID: 40000
+2022/08/18 17:32:08 [Commit-Vote]: 1
+2022/08/18 17:32:08 [COMMIT] NodeID: 30000
+2022/08/18 17:32:08 [Commit-Vote]: 2
+2022/08/18 17:32:08 [COMMIT] NodeID: 20000
+2022/08/18 17:32:08 [Commit-Vote]: 1
+2022/08/18 17:32:08 [COMMIT] NodeID: 40000
+2022/08/18 17:32:08 [Commit-Vote]: 1
+2022/08/18 17:32:08 [COMMIT] NodeID: 20000
+2022/08/18 17:32:08 [Commit-Vote]: 2
+2022/08/18 17:32:08 [COMMIT] NodeID: 30000
+2022/08/18 17:32:08 [Commit-Vote]: 2
+2022/08/18 17:32:08 consensus count :  2
+2022/08/18 17:32:08 consensus count :  2
+2022/08/18 17:32:08 consensus count :  2
+2022/08/18 17:32:16 허용 가능 악성 노드 :  1
+2022/08/18 17:32:18 [PREPARE] NodeID: 20000
+2022/08/18 17:32:18 [Prepare-Vote]: 1
+2022/08/18 17:32:18 [PREPARE] NodeID: 30000
+2022/08/18 17:32:18 [PREPARE] NodeID: 40000
+2022/08/18 17:32:18 [Prepare-Vote]: 2
+2022/08/18 17:32:18 [Prepare-Vote]: 1
+2022/08/18 17:32:18 [PREPARE] NodeID: 30000
+2022/08/18 17:32:18 [Prepare-Vote]: 2
+2022/08/18 17:32:18 [PREPARE] NodeID: 40000
+2022/08/18 17:32:18 [Prepare-Vote]: 1
+2022/08/18 17:32:18 [PREPARE] NodeID: 20000
+2022/08/18 17:32:18 [Prepare-Vote]: 2
+2022/08/18 17:32:20 [COMMIT] NodeID: 20000
+2022/08/18 17:32:20 [Commit-Vote]: 1
+2022/08/18 17:32:20 [COMMIT] NodeID: 40000
+2022/08/18 17:32:20 [Commit-Vote]: 2
+2022/08/18 17:32:20 [COMMIT] NodeID: 30000
+2022/08/18 17:32:20 [Commit-Vote]: 1
+2022/08/18 17:32:20 [COMMIT] NodeID: 20000
+2022/08/18 17:32:20 [COMMIT] NodeID: 30000
+2022/08/18 17:32:20 [Commit-Vote]: 2
+2022/08/18 17:32:20 [Commit-Vote]: 1
+2022/08/18 17:32:20 [COMMIT] NodeID: 40000
+2022/08/18 17:32:20 [Commit-Vote]: 2
+2022/08/18 17:32:20 consensus count :  3
+2022/08/18 17:32:20 consensus count :  3
+2022/08/18 17:32:20 consensus count :  3
+2022/08/18 17:32:29 허용 가능 악성 노드 :  1
+2022/08/18 17:32:31 [PREPARE] NodeID: 20000
+2022/08/18 17:32:31 [Prepare-Vote]: 1
+2022/08/18 17:32:31 [PREPARE] NodeID: 30000
+2022/08/18 17:32:31 [PREPARE] NodeID: 30000
+2022/08/18 17:32:31 [PREPARE] NodeID: 20000
+2022/08/18 17:32:31 [Prepare-Vote]: 1
+2022/08/18 17:32:31 [PREPARE] NodeID: 40000
+2022/08/18 17:32:31 [Prepare-Vote]: 2
+2022/08/18 17:32:31 [Prepare-Vote]: 1
+2022/08/18 17:32:31 [Prepare-Vote]: 2
+2022/08/18 17:32:31 [PREPARE] NodeID: 40000
+2022/08/18 17:32:31 [Prepare-Vote]: 2
+2022/08/18 17:32:33 [COMMIT] NodeID: 30000
+2022/08/18 17:32:33 [Commit-Vote]: 1
+2022/08/18 17:32:33 [COMMIT] NodeID: 20000
+2022/08/18 17:32:33 [Commit-Vote]: 2
+2022/08/18 17:32:33 [COMMIT] NodeID: 40000
+2022/08/18 17:32:33 [Commit-Vote]: 1
+2022/08/18 17:32:33 [COMMIT] NodeID: 20000
+2022/08/18 17:32:33 [Commit-Vote]: 2
+2022/08/18 17:32:33 [COMMIT] NodeID: 40000
+2022/08/18 17:32:33 [Commit-Vote]: 1
+2022/08/18 17:32:33 [COMMIT] NodeID: 30000
+2022/08/18 17:32:33 [Commit-Vote]: 2
+2022/08/18 17:32:33 consensus count :  4
+2022/08/18 17:32:33 consensus count :  4
+2022/08/18 17:32:33 consensus count :  4
+2022/08/18 17:33:17 허용 가능 악성 노드 :  1
+2022/08/18 17:33:19 [PREPARE] NodeID: 40000
+2022/08/18 17:33:19 [Prepare-Vote]: 1
+2022/08/18 17:33:19 [PREPARE] NodeID: 30000
+2022/08/18 17:33:19 [Prepare-Vote]: 2
+2022/08/18 17:33:19 [PREPARE] NodeID: 20000
+2022/08/18 17:33:19 [Prepare-Vote]: 1
+2022/08/18 17:33:19 [PREPARE] NodeID: 40000
+2022/08/18 17:33:19 [Prepare-Vote]: 2
+2022/08/18 17:33:19 add Commit to buffer
+2022/08/18 17:33:19 [PREPARE] NodeID: 30000
+2022/08/18 17:33:19 [Prepare-Vote]: 1
+2022/08/18 17:33:19 [PREPARE] NodeID: 20000
+2022/08/18 17:33:19 [Prepare-Vote]: 2
+2022/08/18 17:33:20 get COMMIT from buffer
+2022/08/18 17:33:21 get COMMIT from buffer
+2022/08/18 17:33:21 [COMMIT] NodeID: 20000
+2022/08/18 17:33:21 [Commit-Vote]: 1
+2022/08/18 17:33:21 [COMMIT] NodeID: 40000
+2022/08/18 17:33:21 [Commit-Vote]: 2
+2022/08/18 17:33:21 [COMMIT] NodeID: 30000
+2022/08/18 17:33:21 [Commit-Vote]: 1
+2022/08/18 17:33:21 [COMMIT] NodeID: 30000
+2022/08/18 17:33:21 [Commit-Vote]: 1
+2022/08/18 17:33:21 [COMMIT] NodeID: 30000
+2022/08/18 17:33:21 [Commit-Vote]: 1
+2022/08/18 17:33:21 [COMMIT] NodeID: 20000
+2022/08/18 17:33:21 [Commit-Vote]: 2
+2022/08/18 17:33:21 [COMMIT] NodeID: 30000
+2022/08/18 17:33:21 [Commit-Vote]: 1
+2022/08/18 17:33:21 [COMMIT] NodeID: 40000
+2022/08/18 17:33:21 [Commit-Vote]: 2
+2022/08/18 17:33:21 consensus count :  5
+2022/08/18 17:33:21 consensus count :  5
+2022/08/18 17:33:21 consensus count :  5
+2022/08/18 17:39:11 server on
+2022/08/18 17:39:11 노드 실행 : 192.168.10.159:10000 
+2022/08/18 17:39:14 server on
+2022/08/18 17:39:16 노드 실행 : 192.168.10.159:20000 
+2022/08/18 17:39:17 server on
+2022/08/18 17:39:20 노드 실행 : 192.168.10.159:30000 
+2022/08/18 17:39:20 server on
+2022/08/18 17:39:22 노드 실행 : 192.168.10.159:40000 
+2022/08/18 17:39:32 허용 가능 악성 노드 :  0
+2022/08/18 17:39:32 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:39:32 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:39:32 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:39:32 View ID 수신 :  0
+2022/08/18 17:39:32 new table :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:39:32 add PrePare to buffer
+2022/08/18 17:39:33 get PREPARE from buffer
+2022/08/18 17:39:34 get PREPARE from buffer
+2022/08/18 17:39:34 [PREPARE] NodeID: 30000
+2022/08/18 17:39:34 [Prepare-Vote]: 1
+2022/08/18 17:39:34 [PREPARE] NodeID: 40000
+2022/08/18 17:39:34 [Prepare-Vote]: 2
+2022/08/18 17:39:34 [PREPARE] NodeID: 20000
+2022/08/18 17:39:34 [PREPARE] NodeID: 20000
+2022/08/18 17:39:34 [Prepare-Vote]: 1
+2022/08/18 17:39:34 [Prepare-Vote]: 1
+2022/08/18 17:39:34 [PREPARE] NodeID: 20000
+2022/08/18 17:39:34 [PREPARE] NodeID: 40000
+2022/08/18 17:39:34 [Prepare-Vote]: 1
+2022/08/18 17:39:34 [Prepare-Vote]: 2
+2022/08/18 17:39:34 [PREPARE] NodeID: 20000
+2022/08/18 17:39:34 [Prepare-Vote]: 1
+2022/08/18 17:39:34 [PREPARE] NodeID: 30000
+2022/08/18 17:39:34 [Prepare-Vote]: 2
+2022/08/18 17:39:36 [COMMIT] NodeID: 20000
+2022/08/18 17:39:36 [Commit-Vote]: 1
+2022/08/18 17:39:36 [COMMIT] NodeID: 40000
+2022/08/18 17:39:36 [Commit-Vote]: 2
+2022/08/18 17:39:36 [COMMIT] NodeID: 30000
+2022/08/18 17:39:36 [Commit-Vote]: 1
+2022/08/18 17:39:36 [COMMIT] NodeID: 20000
+2022/08/18 17:39:36 [Commit-Vote]: 2
+2022/08/18 17:39:36 [COMMIT] NodeID: 30000
+2022/08/18 17:39:36 [Commit-Vote]: 1
+2022/08/18 17:39:36 [COMMIT] NodeID: 40000
+2022/08/18 17:39:36 [Commit-Vote]: 2
+2022/08/18 17:39:36 consensus count :  1
+2022/08/18 17:39:36 consensus count :  1
+2022/08/18 17:39:36 consensus count :  1
+2022/08/18 17:42:45 server on
+2022/08/18 17:42:45 노드 실행 : 192.168.10.159:10000 
+2022/08/18 17:42:47 server on
+2022/08/18 17:42:49 노드 실행 : 192.168.10.159:20000 
+2022/08/18 17:42:50 server on
+2022/08/18 17:42:52 노드 실행 : 192.168.10.159:30000 
+2022/08/18 17:42:53 server on
+2022/08/18 17:42:55 노드 실행 : 192.168.10.159:40000 
+2022/08/18 17:43:10 허용 가능 악성 노드 :  0
+2022/08/18 17:43:10 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:43:10 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:43:10 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:43:10 View ID 수신 :  0
+2022/08/18 17:43:10 new table :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:43:10 add PrePare to buffer
+2022/08/18 17:43:11 get PREPARE from buffer
+2022/08/18 17:43:12 get PREPARE from buffer
+2022/08/18 17:43:12 [PREPARE] NodeID: 20000
+2022/08/18 17:43:12 [Prepare-Vote]: 1
+2022/08/18 17:43:12 [PREPARE] NodeID: 40000
+2022/08/18 17:43:12 [PREPARE] NodeID: 30000
+2022/08/18 17:43:12 [Prepare-Vote]: 2
+2022/08/18 17:43:12 [Prepare-Vote]: 1
+2022/08/18 17:43:12 [PREPARE] NodeID: 30000
+2022/08/18 17:43:12 [PREPARE] NodeID: 30000
+2022/08/18 17:43:12 [Prepare-Vote]: 1
+2022/08/18 17:43:12 [Prepare-Vote]: 1
+2022/08/18 17:43:12 [PREPARE] NodeID: 30000
+2022/08/18 17:43:12 [PREPARE] NodeID: 40000
+2022/08/18 17:43:12 [Prepare-Vote]: 1
+2022/08/18 17:43:12 [Prepare-Vote]: 2
+2022/08/18 17:43:12 [PREPARE] NodeID: 20000
+2022/08/18 17:43:12 [Prepare-Vote]: 2
+2022/08/18 17:43:14 [COMMIT] NodeID: 20000
+2022/08/18 17:43:14 [Commit-Vote]: 1
+2022/08/18 17:43:14 [COMMIT] NodeID: 40000
+2022/08/18 17:43:14 [COMMIT] NodeID: 40000
+2022/08/18 17:43:14 [Commit-Vote]: 1
+2022/08/18 17:43:14 [Commit-Vote]: 2
+2022/08/18 17:43:14 [COMMIT] NodeID: 30000
+2022/08/18 17:43:14 [COMMIT] NodeID: 30000
+2022/08/18 17:43:14 [Commit-Vote]: 2
+2022/08/18 17:43:14 [Commit-Vote]: 1
+2022/08/18 17:43:14 [COMMIT] NodeID: 20000
+2022/08/18 17:43:14 [Commit-Vote]: 2
+2022/08/18 17:43:14 consensus count :  1
+2022/08/18 17:43:14 consensus count :  1
+2022/08/18 17:43:14 consensus count :  1
+2022/08/18 17:51:28 server on
+2022/08/18 17:51:28 노드 실행 : 192.168.10.159:10000 
+2022/08/18 17:51:32 server on
+2022/08/18 17:51:34 노드 실행 : 192.168.10.159:20000 
+2022/08/18 17:51:34 server on
+2022/08/18 17:51:37 노드 실행 : 192.168.10.159:30000 
+2022/08/18 17:51:38 server on
+2022/08/18 17:51:40 노드 실행 : 192.168.10.159:40000 
+2022/08/18 17:51:47 허용 가능 악성 노드 :  0
+2022/08/18 17:51:47 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:51:47 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:51:47 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:51:47 View ID 수신 :  0
+2022/08/18 17:51:47 new table :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:51:47 add PrePare to buffer
+2022/08/18 17:51:47 get PREPARE from buffer
+2022/08/18 17:51:48 get PREPARE from buffer
+2022/08/18 17:51:49 [PREPARE] NodeID: 40000
+2022/08/18 17:51:49 [Prepare-Vote]: 1
+2022/08/18 17:51:49 [PREPARE] NodeID: 30000
+2022/08/18 17:51:49 [Prepare-Vote]: 2
+2022/08/18 17:51:49 [PREPARE] NodeID: 40000
+2022/08/18 17:51:49 [Prepare-Vote]: 1
+2022/08/18 17:51:49 [PREPARE] NodeID: 20000
+2022/08/18 17:51:49 [Prepare-Vote]: 2
+2022/08/18 17:51:49 [PREPARE] NodeID: 20000
+2022/08/18 17:51:49 [Prepare-Vote]: 1
+2022/08/18 17:51:49 [PREPARE] NodeID: 20000
+2022/08/18 17:51:49 [Prepare-Vote]: 1
+2022/08/18 17:51:49 [PREPARE] NodeID: 20000
+2022/08/18 17:51:49 [Prepare-Vote]: 1
+2022/08/18 17:51:49 [PREPARE] NodeID: 30000
+2022/08/18 17:51:49 [Prepare-Vote]: 2
+2022/08/18 17:51:51 [COMMIT] NodeID: 20000
+2022/08/18 17:51:51 [Commit-Vote]: 1
+2022/08/18 17:51:51 [COMMIT] NodeID: 30000
+2022/08/18 17:51:51 [Commit-Vote]: 1
+2022/08/18 17:51:51 [COMMIT] NodeID: 40000
+2022/08/18 17:51:51 [Commit-Vote]: 2
+2022/08/18 17:51:51 [COMMIT] NodeID: 40000
+2022/08/18 17:51:51 [Commit-Vote]: 2
+2022/08/18 17:51:51 [COMMIT] NodeID: 30000
+2022/08/18 17:51:51 [Commit-Vote]: 1
+2022/08/18 17:51:51 [COMMIT] NodeID: 20000
+2022/08/18 17:51:51 [Commit-Vote]: 2
+2022/08/18 17:51:51 consensus count :  1
+2022/08/18 17:51:51 consensus count :  1
+2022/08/18 17:51:51 consensus count :  1
+2022/08/18 17:53:35 server on
+2022/08/18 17:53:35 노드 실행 : 192.168.10.159:10000 
+2022/08/18 17:53:37 server on
+2022/08/18 17:53:39 노드 실행 : 192.168.10.159:20000 
+2022/08/18 17:53:41 server on
+2022/08/18 17:53:43 노드 실행 : 192.168.10.159:30000 
+2022/08/18 17:53:44 server on
+2022/08/18 17:53:46 노드 실행 : 192.168.10.159:40000 
+2022/08/18 17:53:50 허용 가능 악성 노드 :  0
+2022/08/18 17:53:50 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:53:50 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:53:50 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:53:50 View ID 수신 :  0
+2022/08/18 17:53:50 new table :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:53:52 [PREPARE] NodeID: 30000
+2022/08/18 17:53:52 [PREPARE] NodeID: 40000
+2022/08/18 17:53:52 [Prepare-Vote]: 1
+2022/08/18 17:53:52 [Prepare-Vote]: 1
+2022/08/18 17:53:52 [PREPARE] NodeID: 20000
+2022/08/18 17:53:52 [Prepare-Vote]: 2
+2022/08/18 17:53:52 [PREPARE] NodeID: 20000
+2022/08/18 17:53:52 [Prepare-Vote]: 2
+2022/08/18 17:53:52 [PREPARE] NodeID: 30000
+2022/08/18 17:53:52 [Prepare-Vote]: 1
+2022/08/18 17:53:52 [PREPARE] NodeID: 40000
+2022/08/18 17:53:52 [Prepare-Vote]: 2
+2022/08/18 17:53:54 [COMMIT] NodeID: 30000
+2022/08/18 17:53:54 [Commit-Vote]: 1
+2022/08/18 17:53:54 [COMMIT] NodeID: 40000
+2022/08/18 17:53:54 [COMMIT] NodeID: 20000
+2022/08/18 17:53:54 [Commit-Vote]: 2
+2022/08/18 17:53:54 [Commit-Vote]: 1
+2022/08/18 17:53:54 [COMMIT] NodeID: 20000
+2022/08/18 17:53:54 [Commit-Vote]: 2
+2022/08/18 17:53:54 [COMMIT] NodeID: 40000
+2022/08/18 17:53:54 [Commit-Vote]: 1
+2022/08/18 17:53:54 [COMMIT] NodeID: 30000
+2022/08/18 17:53:54 [Commit-Vote]: 2
+2022/08/18 17:53:54 consensus count :  1
+2022/08/18 17:53:54 consensus count :  1
+2022/08/18 17:53:54 consensus count :  1
+2022/08/18 17:59:16 server on
+2022/08/18 17:59:16 노드 실행 : 192.168.10.159:10000 
+2022/08/18 17:59:20 server on
+2022/08/18 17:59:22 노드 실행 : 192.168.10.159:20000 
+2022/08/18 17:59:23 server on
+2022/08/18 17:59:25 노드 실행 : 192.168.10.159:30000 
+2022/08/18 17:59:25 server on
+2022/08/18 17:59:27 노드 실행 : 192.168.10.159:40000 
+2022/08/18 17:59:37 허용 가능 악성 노드 :  0
+2022/08/18 17:59:37 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:59:37 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:59:37 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:59:37 View ID 수신 :  0
+2022/08/18 17:59:37 new table :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 17:59:37 add PrePare to buffer
+2022/08/18 17:59:39 [PREPARE] NodeID: 30000
+2022/08/18 17:59:39 [Prepare-Vote]: 1
+2022/08/18 17:59:39 [PREPARE] NodeID: 20000
+2022/08/18 17:59:39 [Prepare-Vote]: 1
+2022/08/18 17:59:39 [PREPARE] NodeID: 40000
+2022/08/18 17:59:39 [Prepare-Vote]: 2
+2022/08/18 17:59:39 [PREPARE] NodeID: 40000
+2022/08/18 17:59:39 [Prepare-Vote]: 2
+2022/08/18 17:59:39 [PREPARE] NodeID: 20000
+2022/08/18 17:59:39 [Prepare-Vote]: 1
+2022/08/18 17:59:39 [PREPARE] NodeID: 30000
+2022/08/18 17:59:39 [Prepare-Vote]: 2
+2022/08/18 17:59:41 [COMMIT] NodeID: 20000
+2022/08/18 17:59:41 [COMMIT] NodeID: 30000
+2022/08/18 17:59:41 [Commit-Vote]: 1
+2022/08/18 17:59:41 [Commit-Vote]: 1
+2022/08/18 17:59:41 [COMMIT] NodeID: 40000
+2022/08/18 17:59:41 [Commit-Vote]: 2
+2022/08/18 17:59:41 [COMMIT] NodeID: 40000
+2022/08/18 17:59:41 [Commit-Vote]: 2
+2022/08/18 17:59:41 [COMMIT] NodeID: 20000
+2022/08/18 17:59:41 [Commit-Vote]: 1
+2022/08/18 17:59:41 [COMMIT] NodeID: 30000
+2022/08/18 17:59:41 [Commit-Vote]: 2
+2022/08/18 17:59:41 consensus count :  1
+2022/08/18 17:59:41 consensus count :  1
+2022/08/18 17:59:41 consensus count :  1
+2022/08/18 18:03:06 server on
+2022/08/18 18:03:06 노드 실행 : 192.168.10.159:10000 
+2022/08/18 18:03:10 server on
+2022/08/18 18:03:12 노드 실행 : 192.168.10.159:20000 
+2022/08/18 18:03:12 server on
+2022/08/18 18:03:15 노드 실행 : 192.168.10.159:30000 
+2022/08/18 18:03:16 server on
+2022/08/18 18:03:18 노드 실행 : 192.168.10.159:40000 
+2022/08/18 18:03:25 허용 가능 악성 노드 :  0
+2022/08/18 18:03:25 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 18:03:25 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 18:03:25 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 18:03:25 View ID 수신 :  0
+2022/08/18 18:03:25 new table :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 18:03:27 [PREPARE] NodeID: 40000
+2022/08/18 18:03:27 [Prepare-Vote]: 1
+2022/08/18 18:03:27 [PREPARE] NodeID: 30000
+2022/08/18 18:03:27 [Prepare-Vote]: 1
+2022/08/18 18:03:27 [PREPARE] NodeID: 20000
+2022/08/18 18:03:27 [Prepare-Vote]: 2
+2022/08/18 18:03:27 add Commit to buffer
+2022/08/18 18:03:27 [PREPARE] NodeID: 20000
+2022/08/18 18:03:27 [Prepare-Vote]: 2
+2022/08/18 18:03:27 [PREPARE] NodeID: 30000
+2022/08/18 18:03:27 [Prepare-Vote]: 1
+2022/08/18 18:03:27 [PREPARE] NodeID: 40000
+2022/08/18 18:03:27 [Prepare-Vote]: 2
+2022/08/18 18:03:28 get COMMIT from buffer
+2022/08/18 18:03:29 get COMMIT from buffer
+2022/08/18 18:03:29 [COMMIT] NodeID: 40000
+2022/08/18 18:03:29 [Commit-Vote]: 1
+2022/08/18 18:03:29 [COMMIT] NodeID: 20000
+2022/08/18 18:03:29 [Commit-Vote]: 2
+2022/08/18 18:03:29 [COMMIT] NodeID: 30000
+2022/08/18 18:03:29 [Commit-Vote]: 1
+2022/08/18 18:03:29 [COMMIT] NodeID: 30000
+2022/08/18 18:03:29 [Commit-Vote]: 1
+2022/08/18 18:03:29 [COMMIT] NodeID: 30000
+2022/08/18 18:03:29 [Commit-Vote]: 1
+2022/08/18 18:03:29 [COMMIT] NodeID: 30000
+2022/08/18 18:03:29 [COMMIT] NodeID: 20000
+2022/08/18 18:03:29 [Commit-Vote]: 1
+2022/08/18 18:03:29 [Commit-Vote]: 2
+2022/08/18 18:03:29 [COMMIT] NodeID: 40000
+2022/08/18 18:03:29 [Commit-Vote]: 2
+2022/08/18 18:03:29 consensus count :  1
+2022/08/18 18:03:29 consensus count :  1
+2022/08/18 18:03:29 consensus count :  1
+2022/08/18 18:11:56 server on
+2022/08/18 18:11:56 노드 실행 : 192.168.10.159:10000 
+2022/08/18 18:11:58 server on
+2022/08/18 18:12:00 노드 실행 : 192.168.10.159:20000 
+2022/08/18 18:12:01 server on
+2022/08/18 18:12:03 노드 실행 : 192.168.10.159:30000 
+2022/08/18 18:12:04 server on
+2022/08/18 18:12:06 노드 실행 : 192.168.10.159:40000 
+2022/08/18 18:12:14 허용 가능 악성 노드 :  0
+2022/08/18 18:12:14 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 18:12:14 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 18:12:14 msp에게 NodeAddressTable 수신 :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 18:12:14 View ID 수신 :  0
+2022/08/18 18:12:14 new table :  map[10000:127.0.0.1:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 18:12:16 [PREPARE] NodeID: 30000
+2022/08/18 18:12:16 [Prepare-Vote]: 1
+2022/08/18 18:12:16 [PREPARE] NodeID: 20000
+2022/08/18 18:12:16 [Prepare-Vote]: 2
+2022/08/18 18:12:16 [PREPARE] NodeID: 30000
+2022/08/18 18:12:16 [Prepare-Vote]: 1
+2022/08/18 18:12:16 [PREPARE] NodeID: 40000
+2022/08/18 18:12:16 [Prepare-Vote]: 2
+2022/08/18 18:12:16 add Commit to buffer
+2022/08/18 18:12:16 [PREPARE] NodeID: 20000
+2022/08/18 18:12:16 [Prepare-Vote]: 1
+2022/08/18 18:12:16 [PREPARE] NodeID: 40000
+2022/08/18 18:12:16 [Prepare-Vote]: 2
+2022/08/18 18:12:17 get COMMIT from buffer
+2022/08/18 18:12:18 get COMMIT from buffer
+2022/08/18 18:12:18 [COMMIT] NodeID: 30000
+2022/08/18 18:12:18 [Commit-Vote]: 1
+2022/08/18 18:12:18 [COMMIT] NodeID: 40000
+2022/08/18 18:12:18 [Commit-Vote]: 1
+2022/08/18 18:12:18 [COMMIT] NodeID: 40000
+2022/08/18 18:12:18 [Commit-Vote]: 1
+2022/08/18 18:12:18 [COMMIT] NodeID: 40000
+2022/08/18 18:12:18 [Commit-Vote]: 1
+2022/08/18 18:12:18 [COMMIT] NodeID: 20000
+2022/08/18 18:12:18 [Commit-Vote]: 2
+2022/08/18 18:12:18 [COMMIT] NodeID: 20000
+2022/08/18 18:12:18 [Commit-Vote]: 2
+2022/08/18 18:12:18 [COMMIT] NodeID: 30000
+2022/08/18 18:12:18 [Commit-Vote]: 1
+2022/08/18 18:12:18 [COMMIT] NodeID: 40000
+2022/08/18 18:12:18 [Commit-Vote]: 2
+2022/08/18 18:12:18 consensus count :  1
+2022/08/18 18:12:18 consensus count :  1
+2022/08/18 18:12:18 consensus count :  1
+2022/08/18 18:15:11 server on
+2022/08/18 18:15:11 노드 실행 : 192.168.10.159:10000 
+2022/08/18 18:15:14 server on
+2022/08/18 18:15:16 노드 실행 : 192.168.10.159:20000 
+2022/08/18 18:15:16 server on
+2022/08/18 18:15:19 노드 실행 : 192.168.10.159:30000 
+2022/08/18 18:15:19 server on
+2022/08/18 18:15:21 노드 실행 : 192.168.10.159:40000 
+2022/08/18 18:17:17 server on
+2022/08/18 18:17:17 노드 실행 : 192.168.10.159:10000 
+2022/08/18 18:17:20 server on
+2022/08/18 18:17:20 노드 실행 : 192.168.10.159:20000 
+2022/08/18 18:17:23 server on
+2022/08/18 18:17:23 노드 실행 : 192.168.10.159:30000 
+2022/08/18 18:17:26 server on
+2022/08/18 18:17:26 노드 실행 : 192.168.10.159:40000 
+2022/08/18 18:18:22 허용 가능 악성 노드 :  0
+2022/08/18 18:18:22 msp에게 NodeAddressTable 수신 :  map[10000:192.168.10.159:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 18:18:22 msp에게 NodeAddressTable 수신 :  map[10000:192.168.10.159:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 18:18:22 msp에게 NodeAddressTable 수신 :  map[10000:192.168.10.159:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 18:18:22 View ID 수신 :  0
+2022/08/18 18:18:22 new table :  map[10000:192.168.10.159:10000 20000:192.168.10.159:20000 30000:192.168.10.159:30000 40000:192.168.10.159:40000]
+2022/08/18 18:18:22 add PrePare to buffer
+2022/08/18 18:18:22 [PREPARE] NodeID: 30000
+2022/08/18 18:18:22 [Prepare-Vote]: 1
+2022/08/18 18:18:22 [PREPARE] NodeID: 20000
+2022/08/18 18:18:22 [Prepare-Vote]: 2
+2022/08/18 18:18:22 add Commit to buffer
+2022/08/18 18:18:22 add PrePare to buffer
+2022/08/18 18:18:22 add Commit to buffer
+2022/08/18 18:18:22 add Commit to buffer
+2022/08/18 18:18:22 [PREPARE] NodeID: 30000
+2022/08/18 18:18:22 [Prepare-Vote]: 1
+2022/08/18 18:18:22 [PREPARE] NodeID: 40000
+2022/08/18 18:18:22 [Prepare-Vote]: 2
+2022/08/18 18:18:22 add Commit to buffer
+2022/08/18 18:18:22 [PREPARE] NodeID: 20000
+2022/08/18 18:18:22 [Prepare-Vote]: 1
+2022/08/18 18:18:22 [PREPARE] NodeID: 40000
+2022/08/18 18:18:22 [Prepare-Vote]: 2
+2022/08/18 18:18:22 [PREPARE] NodeID: 20000
+2022/08/18 18:18:22 [Prepare-Vote]: 1
+2022/08/18 18:18:22 [PREPARE] NodeID: 30000
+2022/08/18 18:18:22 [Prepare-Vote]: 2
+2022/08/18 18:18:22 [COMMIT] NodeID: 30000
+2022/08/18 18:18:22 [Commit-Vote]: 1
+2022/08/18 18:18:22 [COMMIT] NodeID: 20000
+2022/08/18 18:18:22 [Commit-Vote]: 2
+2022/08/18 18:18:22 [COMMIT] NodeID: 10000
+2022/08/18 18:18:22 [Commit-Vote]: 1
+2022/08/18 18:18:22 [COMMIT] NodeID: 30000
+2022/08/18 18:18:22 [Commit-Vote]: 2
+2022/08/18 18:18:22 [COMMIT] NodeID: 10000
+2022/08/18 18:18:22 [Commit-Vote]: 1
+2022/08/18 18:18:22 [COMMIT] NodeID: 20000
+2022/08/18 18:18:22 [Commit-Vote]: 2
+2022/08/18 18:18:22 add Commit to buffer
+2022/08/18 18:18:22 [COMMIT] NodeID: 10000
+2022/08/18 18:18:22 [Commit-Vote]: 1
+2022/08/18 18:18:22 [COMMIT] NodeID: 20000
+2022/08/18 18:18:22 [Commit-Vote]: 2
+2022/08/18 18:18:22 consensus count :  1
+2022/08/18 18:18:22 [COMMIT] NodeID: 40000
+2022/08/18 18:18:22 commit message is corrupted
+2022/08/18 18:18:22 commit message is corrupted
+2022/08/18 18:18:22 commit message is corrupted
+2022/08/18 18:18:22 consensus count :  1
+2022/08/18 18:18:22 consensus count :  1
+2022/08/18 18:18:22 [COMMIT] NodeID: 40000
+2022/08/18 18:18:22 commit message is corrupted
+2022/08/18 18:18:22 commit message is corrupted
+2022/08/18 18:18:22 commit message is corrupted
+2022/08/18 18:18:22 consensus count :  1
+2022/08/18 18:18:22 [COMMIT] NodeID: 30000
+2022/08/18 18:18:22 commit message is corrupted
+2022/08/18 18:18:22 commit message is corrupted
+2022/08/18 18:18:22 commit message is corrupted

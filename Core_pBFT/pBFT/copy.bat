@@ -1,0 +1,4 @@
+xcopy "D:\taeokim\3th\blockchainProject\final\career\Core_pBFT\pBFT\consensusPBFT.exe" "D:\taeokim\3th\blockchainProject\final\career\Core_pBFT\pBFT\1\consensusPBFT.exe"
+xcopy "D:\taeokim\3th\blockchainProject\final\career\Core_pBFT\pBFT\consensusPBFT.exe" "D:\taeokim\3th\blockchainProject\final\career\Core_pBFT\pBFT\2\consensusPBFT.exe"
+xcopy "D:\taeokim\3th\blockchainProject\final\career\Core_pBFT\pBFT\consensusPBFT.exe" "D:\taeokim\3th\blockchainProject\final\career\Core_pBFT\pBFT\3\consensusPBFT.exe"
+xcopy "D:\taeokim\3th\blockchainProject\final\career\Core_pBFT\pBFT\consensusPBFT.exe" "D:\taeokim\3th\blockchainProject\final\career\Core_pBFT\pBFT\4\consensusPBFT.exe"

@@ -1,0 +1,27 @@
+2022/08/18 10:40:35 server on
+2022/08/18 10:40:37 노드 실행 : 192.168.10.159:40000 
+2022/08/18 10:40:57 pre-prepare message is corrupted
+2022/08/18 10:40:57 pre-prepare message is corrupted
+2022/08/18 10:40:57 pre-prepare message is corrupted
+2022/08/18 10:40:57 add PrePare to buffer
+2022/08/18 10:40:59 add PrePare to buffer
+2022/08/18 10:41:02 add PrePare to buffer
+2022/08/18 10:41:02 add PrePare to buffer
+2022/08/18 10:41:02 pre-prepare message is corrupted
+2022/08/18 10:41:02 pre-prepare message is corrupted
+2022/08/18 10:41:02 pre-prepare message is corrupted
+2022/08/18 10:41:06 add PrePare to buffer
+2022/08/18 10:41:06 pre-prepare message is corrupted
+2022/08/18 10:41:06 pre-prepare message is corrupted
+2022/08/18 10:41:06 pre-prepare message is corrupted
+2022/08/18 10:41:08 add PrePare to buffer
+2022/08/18 10:41:10 pre-prepare message is corrupted
+2022/08/18 10:41:10 pre-prepare message is corrupted
+2022/08/18 10:41:10 pre-prepare message is corrupted
+2022/08/18 10:41:12 add PrePare to buffer
+2022/08/18 10:41:12 add PrePare to buffer
+2022/08/18 10:41:32 pre-prepare message is corrupted
+2022/08/18 10:41:32 pre-prepare message is corrupted
+2022/08/18 10:41:32 pre-prepare message is corrupted
+2022/08/18 10:41:32 add PrePare to buffer
+2022/08/18 10:41:34 add PrePare to buffer
